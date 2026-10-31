@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "dharshini",
+    "question": "What is a cooperative society?",
+    "status": "Answered",
+    "answer": "A cooperative society is a group of people who voluntarily work together to achieve common goals and share the benefits fairly.",
+    "reply": "A cooperative society is a group of people who voluntarily work together to achieve common goals and share the benefits fairly.",
+    "language": "English",
+    "date": "2026-09-09 10:41:35"
+  },
+  {
+    "id": 2,
+    "name": "dharshini",
+    "question": "what is pacs",
+    "status": "Pending",
+    "answer": "",
+    "reply": "",
+    "language": "English",
+    "date": "2026-09-15 10:52:48"
+  },
+  {
+    "id": 3,
+    "name": "dharshini",
+    "question": "how to get loan",
+    "status": "Pending",
+    "answer": "",
+    "reply": "",
+    "language": "English",
+    "date": "2026-09-15 10:58:13"
+  },
+  {
+    "id": 4,
+    "name": "Anonymous",
+    "question": "What is a cooperative society?",
+    "status": "Pending",
+    "answer": "",
+    "reply": "",
+    "language": "English",
+    "date": "2026-09-15 11:03:23"
+  },
+  {
+    "id": 5,
+    "name": "divya",
+    "question": "what is the roket technologies",
+    "status": "Answered",
+    "answer": "Sorry, I could not find a suitable answer.",
+    "reply": "Sorry, I could not find a suitable answer.",
+    "language": "English",
+    "date": "2026-09-15 11:32:36"
+  },
+  {
+    "id": 6,
+    "name": "divya",
+    "question": "What is PAACS?",
+    "status": "Answered",
+    "answer": "PAACS stands for Primary Agricultural Cooperative Credit Society. It provides credit and related support services to farmers and rural members according to applicable rules.",
+    "reply": "PAACS stands for Primary Agricultural Cooperative Credit Society. It provides credit and related support services to farmers and rural members according to applicable rules.",
+    "language": "English",
+    "date": "2026-09-15 11:39:42"
+  },
+  {
+    "id": 7,
+    "name": "divya",
+    "question": "What are the benefits of cooperative societies?",
+    "status": "Pending",
+    "answer": "",
+    "reply": "",
+    "language": "English",
+    "date": "2026-09-15 11:57:17"
+  },
+  {
+    "id": 8,
+    "name": "anu",
+    "question": "what is pacs",
+    "status": "Pending",
+    "answer": "",
+    "reply": "",
+    "language": "English",
+    "date": "2026-09-16 15:11:27"
+  },
+  {
+    "id": 9,
+    "name": "abi",
+    "question": "What is the total number of registered members in the society as of today?",
+    "status": "Answered",
+    "answer": "As of today (16 September 2026), the total number of registered members in the society is [Insert Total Number, e.g., 145]. The breakdown is as follows: Active Members: [e.g., 140] | Associate/Joint Members: [e.g., 5]. (Refer to Page No. [X] of the Member Register attached).",
+    "reply": "As of today (16 September 2026), the total number of registered members in the society is [Insert Total Number, e.g., 145]. The breakdown is as follows: Active Members: [e.g., 140] | Associate/Joint Members: [e.g., 5]. (Refer to Page No. [X] of the Member Register attached).",
+    "language": "English",
+    "date": "2026-09-16 15:14:00"
+  },
+  {
+    "id": 10,
+    "name": "Devi",
+    "question": "Who are the authorized signatories for operating the society’s bank accounts",
+    "status": "Answered",
+    "answer": "\"The bank accounts of the society are operated jointly by any two of the following authorized office bearers: [Name of President] (President), [Name of Secretary] (Secretary), and [Name of Treasurer] (Treasurer). Generally, all cheques and financial transactions are signed jointly by the Secretary and the Treasurer.",
+    "reply": "\"The bank accounts of the society are operated jointly by any two of the following authorized office bearers: [Name of President] (President), [Name of Secretary] (Secretary), and [Name of Treasurer] (Treasurer). Generally, all cheques and financial transactions are signed jointly by the Secretary and the Treasurer.",
+    "language": "English",
+    "date": "2026-09-16 15:27:38"
+  },
+  {
+    "id": 11,
+    "name": "Devi",
+    "question": "How can I become a cooperative member?",
+    "status": "Pending",
+    "answer": "",
+    "reply": "",
+    "language": "English",
+    "date": "2026-09-19 13:54:16"
+  },
+  {
+    "id": 12,
+    "name": "Devi",
+    "question": "How can I become a cooperative member?",
+    "status": "Pending",
+    "answer": "",
+    "reply": "",
+    "language": "English",
+    "date": "2026-09-19 13:55:58"
+  },
+  {
+    "id": 13,
+    "name": "Devi",
+    "question": "How can I become a cooperative society member?",
+    "status": "Answered",
+    "answer": "You can become a member by submitting the required application and documents to the concerned cooperative society, subject to its membership rules.",
+    "reply": "You can become a member by submitting the required application and documents to the concerned cooperative society, subject to its membership rules.",
+    "language": "English",
+    "date": "2026-09-19 14:44:52"
+  },
+  {
+    "id": 14,
+    "name": "Devi",
+    "question": "How can I become a member of a cooperative society?",
+    "status": "Answered",
+    "answer": "You can become a member by submitting the required application and documents to the concerned cooperative society, subject to its membership rules.",
+    "reply": "You can become a member by submitting the required application and documents to the concerned cooperative society, subject to its membership rules.",
+    "language": "English",
+    "date": "2026-09-19 14:47:12"
+  }
+]
